@@ -1,0 +1,24 @@
+
+###################### General ##################
+
+# -
+
+
+
+###################### OS generated #############
+
+########### Mac OS X
+*~
+._*
+__MACOSX
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+### jenv
+.java-version
+
+########### Windows
+Desktop.ini
+ehthumbs.db
+Thumbs.db
